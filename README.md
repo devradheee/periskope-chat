@@ -12,7 +12,6 @@ A multi-user, multi-number WhatsApp inbox and automation platform built with Nex
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Database Setup](#database-setup)
 
 ## Overview
 
